@@ -10,3 +10,8 @@ build: *currently not functional*
 ===
 
 Run `gulp build` and a new folder will be created called dist. all assets will be copied along with all files in the dev folder along with the combined css file. you can simply just copy this folder and upload it it as your production site.
+
+extra components:
+jquery works.
+bootstrap works.
+app.js works.
